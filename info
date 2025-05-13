@@ -1,1 +1,1 @@
-something about polynomials
+This file can create a Polynomial as an object, add them, evaluate the polynomial at some value x, and see if it has a root at some value x.
